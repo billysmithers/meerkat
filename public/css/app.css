@@ -1,0 +1,25 @@
+pre.debug
+{
+    padding: 5px;
+    color: black;
+    background-color: #F2E8A7;
+}
+
+.container
+{
+    padding: 5px;
+}
+
+h1
+{
+    color: black;
+    text-transform: lowercase;
+    font-size: 2em;
+}
+
+.error
+{
+    padding: 2px 5px;
+    font-weight: bold;
+    color: #CC0000;
+}
